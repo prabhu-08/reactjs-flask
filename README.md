@@ -6,11 +6,16 @@ React JS with Python Flask
 
 >### Install Dependencies
 cd client
+
 npm install
 
 # Server
-Server side code resides in server folder.
+>Server side code resides in server folder.
+
 cd server
+
 pip install requirements.txt
+
+
 python routes.py
 
